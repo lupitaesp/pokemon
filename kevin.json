@@ -587,37 +587,6 @@
     ]
     },
     {
-      "id": 404,
-      "num": "404",
-      "name": "Luxio",
-      "img": "https://www.serebii.net/pokemongo/pokemon/404.png",
-      "type": [
-       "Electr"
-      ],
-      "height": "0.9 m",
-      "weight": "30.5 kg",
-      "candy": "Luxio Candy",
-      "candy_count": 25,
-      "egg": "2 km",
-      "spawn_chance": 0.69,
-      "avg_spawns": 69,
-      "spawn_time": "20:00",
-      "multipliers": [
-      1.58
-      ],
-      "weaknesses": [
-        "Ground"
-      ],
-      "previous_evolution" : [{
-        "num" : "403" ,
-        "name" : "shinx"
-      }], 
-       "next_evolution": [{
-        "num" : "405" ,
-        "name" : "Luxray"
-      }]
-    },
-    {
       "id": 405,
       "num": "405",
       "name": "Luxray",
