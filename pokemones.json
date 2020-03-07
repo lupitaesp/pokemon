@@ -2431,7 +2431,7 @@
           }
         ]
       },
-      {
+            {
                 "id": 252,
                 "num": "252",
                 "name": "Treecko",
@@ -4378,6 +4378,1770 @@
                   "num": "321",
                   "name": "Wailord"
                 }]
-                }
+                },
+                {
+                    "id": 321,
+                    "num": "321",
+                    "name": "Wailord",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/321.png",
+                    "type": [
+                      "Water"
+                    ],
+                    "height": "14.50 m",
+                    "weight": "398 kg",
+                    "candy": "Wailmer Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Plant"
+                    ],
+                    "prev_evolution": [{
+                      "num": "320",
+                      "name": "Wailmer"
+                    }]
+                  }, {
+                    "id": 322,
+                    "num": "322",
+                    "name": "Numel",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/322.png",
+                    "type": [
+                      "Fire",
+                      "Ground"
+                    ],
+                    "height": "0.71 m",
+                    "weight": "24.0 kg",
+                    "candy": "Numel Candy",
+                    "candy_count": 50,
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Ground",
+                      "Water"
+                    ],
+                    "next_evolution": [{
+                      "num": "323",
+                      "name": "Camerupt"
+                    }]
+                  }, {
+                    "id": 323,
+                    "num": "323",
+                    "name": "Camerupt",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/323.png",
+                    "type": [
+                      "Fire",
+                      "Ground"
+                    ],
+                    "height": "1.91 m",
+                    "weight": "220.0 kg",
+                    "candy": "Numel Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Ground",
+                      "Water"
+                    ],
+                    "prev_evolution": [{
+                      "num": "322",
+                      "name": "Numel"
+                    }]
+                  }, {
+                    "id": 324,
+                    "num": "324",
+                    "name": "Torkoal",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/324.png",
+                    "type": [
+                      "Fire"
+                    ],
+                    "height": "0.51 m",
+                    "weight": "80.4 kg",
+                    "candy": "Torkoal Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Ground",
+                      "Rock"
+                    ]
+                  }, {
+                    "id": 325,
+                    "num": "325",
+                    "name": "Spoink",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/325.png",
+                    "type": [
+                      "Psychic"
+                    ],
+                    "height": "0.71 m",
+                    "weight": "30.6 kg",
+                    "candy": "Spoink Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Bug",
+                      "Ghost",
+                      "Dark"
+                    ],
+                    "next_evolution": [{
+                      "num": "326",
+                      "name": "Grumpig"
+                    }]
+                  }, {
+                    "id": 326,
+                    "num": "326",
+                    "name": "Grumpig",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/326.png",
+                    "type": [
+                      "Psychic"
+                    ],
+                    "height": "0.89 m",
+                    "weight": "71.5 kg",
+                    "candy": "Spoink Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Bug",
+                      "Ghost",
+                      "Dark"
+                    ],
+                    "prev_evolution": [{
+                      "num": "325",
+                      "name": "Spoink"
+                    }]
+                  }, {
+                    "id": 327,
+                    "num": "327",
+                    "name": "Spinda",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/327.png",
+                    "type": [
+                      "Normal"
+                    ],
+                    "height": "1.09 m",
+                    "weight": "5.0 kg",
+                    "candy": "Spinda Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fighting"
+                    ]
+                  }, {
+                    "id": 328,
+                    "num": "328",
+                    "name": "Trapinch",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/328.png",
+                    "type": [
+                      "Ground"
+                    ],
+                    "height": "0.71 m",
+                    "weight": "15.0 kg",
+                    "candy": "Taprinch Candy",
+                    "candy_count": 25,
+                    "egg": "10 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Ice",
+                      "Plant"
+                    ],
+                    "next_evolution": [{
+                      "num": "329",
+                      "name": "Vibrava"
+                    }]
+                  }, {
+                    "id": 329,
+                    "num": "329",
+                    "name": "Vibrava",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/329.png",
+                    "type": [
+                      "Ground",
+                      "Dragon"
+                    ],
+                    "height": "1.09 m",
+                    "weight": "15.3 kg",
+                    "candy": "Taprinch Candy",
+                    "candy_count": 100,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Dragon",
+                      "Fairy",
+                      "Ice"
+                    ],
+                    "prev_evolution": [{
+                      "num": "328",
+                      "name": "Trapinch"
+                    }],
+                    "next_evolution": [{
+                      "num": "330",
+                      "name": "Flygon"
+                    }]
+                  }, {
+                    "id": 330,
+                    "num": "330",
+                    "name": "Flygon",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/330.png",
+                    "type": [
+                      "Ground",
+                      "Dragon"
+                    ],
+                    "height": "2.01 m",
+                    "weight": "82.0 kg",
+                    "candy": "Taprinch Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Dragon",
+                      "Fairy",
+                      "Ice"
+                    ]
+                  }, {
+                    "id": 331,
+                    "num": "331",
+                    "name": "Cacnea",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/331.png",
+                    "type": [
+                      "Plant"
+                    ],
+                    "height": "0.41 m",
+                    "weight": "51.3 kg",
+                    "candy": "Cacnea Candy",
+                    "candy_count": 50,
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fire",
+                      "Flying",
+                      "Bug",
+                      "Ice",
+                      "Poison"
+                    ],
+                    "next_evolution": [{
+                      "num": "332",
+                      "name": "Cactume"
+                    }]
+                  }, {
+                    "id": 332,
+                    "num": "332",
+                    "name": "Cactume",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/332.png",
+                    "type": [
+                      "Plant",
+                      "Dark"
+                    ],
+                    "height": "1.3 m",
+                    "weight": "77.4 kg",
+                    "candy": "Cacnea Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fire",
+                      "Fairy",
+                      "Ice",
+                      "Flying",
+                      "Poison",
+                      "Fighting",
+                      "Bug"
+                    ],
+                    "prev_evolution": [{
+                      "num": "331",
+                      "name": "Cacnea"
+                    }]
+                    }, {
+                    "id": 333,
+                    "num": "333",
+                    "name": "Swablu",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/333.png",
+                    "type": [
+                      "Normal",
+                      "Fliying"
+                    ],
+                    "height": "0.41 m",
+                    "weight": "1.2 kg",
+                    "candy": "Swablu Candy",
+                    "candy_count": 400,
+                    "egg": "2 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Ice",
+                      "Rock"
+                    ],
+                    "next_evolution": [{
+                      "num": "334",
+                      "name": "Altaria"
+                    }]
+                  }, {
+                    "id": 334,
+                    "num": "334",
+                    "name": "Altaria",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/334.png",
+                    "type": [
+                      "Dragon",
+                      "Fliying"
+                    ],
+                    "height": "1.09 m",
+                    "weight": "20.06 kg",
+                    "candy": "Swablu Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Dragin",
+                      "Fairy",
+                      "Rock",
+                      "Ice"
+                    ],
+                    "prev_evolution": [{
+                      "num": "333",
+                      "name": "Swablu"
+                    }]
+                  }, {
+                    "id": 335,
+                    "num": "335",
+                    "name": "Zangoose",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/335.png",
+                    "type": [
+                      "Normal"
+                    ],
+                    "height": "1.3 m",
+                    "weight": "40.3 kg",
+                    "candy": "Zangoose Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fighting"
+                    ]
+                  }, {
+                    "id": 336,
+                    "num": "336",
+                    "name": "Seviper",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/336.png",
+                    "type": [
+                      "Poison"
+                    ],
+                    "height": "2.69 m",
+                    "weight": "52.5 kg",
+                    "candy": "Seviper Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Psychic",
+                      "Ground"
+                    ]
+                  }, {
+                    "id": 337,
+                    "num": "337",
+                    "name": "Lunatone",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/337.png",
+                    "type": [
+                      "Rock",
+                      "Psychic"
+                    ],
+                    "height": "0.99 m",
+                    "weight": "168.0 kg",
+                    "candy": "Lunatone Candy",
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Iron",
+                      "Bug",
+                      "Ghost",
+                      "Plant",
+                      "Dark",
+                      "Ground"
+                    ]
+                  }, {
+                    "id": 338,
+                    "num": "338",
+                    "name": "Solrock",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/338.png",
+                    "type": [
+                      "Rock",
+                      "Psychic"
+                    ],
+                    "height": "1.19 m",
+                    "weight": "154.0 kg",
+                    "candy": "Solrock Candy",
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Iron",
+                      "Bug",
+                      "Ghost",
+                      "Plant",
+                      "Dark",
+                      "Ground"
+                    ]
+                  }, {
+                    "id": 339,
+                    "num": "339",
+                    "name": "Barboach",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/339.png",
+                    "type": [
+                      "Water",
+                      "Ground"
+                    ],
+                    "height": "0.51 m",
+                    "weight": "1.9 kg",
+                    "candy": "Barboach Candy",
+                    "candy_count": 50,
+                    "egg": "2 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Plant"
+                    ],
+                    "next_evolution": [{
+                      "num": "340",
+                      "name": "Wishcash"
+                    }]
+                  }, {
+                    "id": 340,
+                    "num": "340",
+                    "name": "Wishcash",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/340.png",
+                    "type": [
+                      "Water",
+                      "Ground"
+                    ],
+                    "height": "0.89 m",
+                    "weight": "23.6 kg",
+                    "candy": "Barboach Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Plant"
+                    ],
+                    "prev_evolution": [{
+                      "num": "339",
+                      "name": "Barboach"
+                    }]
+                  }, {
+                    "id": 341,
+                    "num": "341",
+                    "name": "Corphish",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/341.png",
+                    "type": [
+                      "Water"
+                    ],
+                    "height": "0.61 m",
+                    "weight": "11.5 kg",
+                    "candy": "Corphish Candy",
+                    "candy_count": 50,
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Plant"
+                    ],
+                    "next_evolution": [{
+                      "num": "342",
+                      "name": "Crawdaunt"
+                    }]
+                  }, {
+                    "id": 342,
+                    "num": "342",
+                    "name": "Crawdaunt",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/342.png",
+                    "type": [
+                      "Water",
+                      "Dark"
+                    ],
+                    "height": "1.09 m",
+                    "weight": "32.8 kg",
+                    "candy": "Corphish Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Plant"
+                    ],
+                    "prev_evolution": [{
+                      "num": "341",
+                      "name": "Corphish"
+                    }]
+                  }, {
+                    "id": 343,
+                    "num": "343",
+                    "name": "Baltoy",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/343.png",
+                    "type": [
+                      "Ground",
+                      "Psychic"
+                    ],
+                    "height": "0.51 m",
+                    "weight": "21.5 kg",
+                    "candy": "Baltoy Candy",
+                    "candy_count": 50,
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Bug",
+                      "Ghost",
+                      "Ice",
+                      "Plant",
+                      "Dark"
+                    ],
+                    "next_evolution": [{
+                      "num": "344",
+                      "name": "Claydol"
+                    }]
+                  },
+                  {
+                    "id": 344,
+                    "num": "344",
+                    "name": "Claydol",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/344.png",
+                    "type": [
+                      "Ground",
+                      "Psychic"
+                    ],
+                    "height": "1.5 m",
+                    "weight": "108 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Ice",
+                      "Plant",
+                      "Sinister",
+                      "Bug",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "344",
+                        "name": "Claydol"
+                      }
+                    ]
+                  },
+                  {
+                  "id": 345,
+                    "num": "345",
+                    "name": "Lileep",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/345.png",
+                    "type": [
+                      "Rock",
+                      "Grass"
+                    ],
+                    "height": "1 m",
+                    "weight": "23.8 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 50,
+                    "egg": "7 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fight",
+                      "Ice",
+                      "Bug",
+                      "Steel"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "346",
+                        "name": "Cradily"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 346,
+                    "num": "346",
+                    "name": "Cradily",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/346.png",
+                    "type": [
+                      "Rock",
+                      "Grass"
+                    ],
+                    "height": "1.5 m",
+                    "weight": "60.4 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count":50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fight",
+                      "Ice",
+                      "Bug",
+                      "Steel"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "346",
+                        "name": "Cradily"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 347,
+                    "num": "347",
+                    "name": "Anorith",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/347.png",
+                    "type": [
+                      "Rock",
+                      "Bug"
+                    ],
+                    "height": "0.7 m",
+                    "weight": "12.5 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 50,
+                    "egg": "7 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Rock",
+                      "Steel"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "348",
+                        "name": "Armaldo"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 348,
+                    "num": "348",
+                    "name": "Armaldo",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/348.png",
+                    "type": [
+                      "Rock",
+                      "Bug"
+                    ],
+                    "height": "1.5 m",
+                    "weight": "68.2 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Water",
+                      "Rock",
+                      "Steel"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "348",
+                        "name": "Armaldo"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 349,
+                    "num": "349",
+                    "name": "Feebas",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/349.png",
+                    "type": [
+                      "Water"
+                    ],
+                    "height": "0.6 m",
+                    "weight": "7.4 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 75,
+                    "egg": "10 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Plant",
+                      "Electric"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "350",
+                        "name": "Milotic"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 350,
+                    "num": "350",
+                    "name": "Milotic",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/350.png",
+                    "type": [
+                      "Water"
+                    ],
+                    "height": "0.71 m",
+                    "weight": "6.9 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 75,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Plant",
+                      "Electric"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "350",
+                        "name": "Milotic"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 351,
+                    "num": "351",
+                    "name": "Castform",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/351.png",
+                    "type": [
+                      "Normal",
+                      "Fire",
+                      "Water",
+                      "Ice"
+                    ],
+                    "height": "0.3 m",
+                    "weight": "0.8 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 75,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Flight"
+                    ]
+                  },
+                  {
+                   "id": 352,
+                    "num": "352",
+                    "name": "Kecleon",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/352.png",
+                    "type": [
+                      "Normal"
+                    ],
+                    "height": "1 m",
+                    "weight": "22 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 75,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Flight"
+                    ]
+                  },
+                  {
+                   "id": 353,
+                    "num": "353",
+                    "name": "Shuppet",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/353.png",
+                    "type": [
+                      "Ghost"
+                    ],
+                    "height": "0.6 m",
+                    "weight": "2.3 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Sinister",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "354",
+                        "name": "Banette"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 354,
+                    "num": "354",
+                    "name": "Banette",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/354.png",
+                    "type": [
+                      "Ghost"
+                    ],
+                    "height": "1.1 m",
+                    "weight": "12.5 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Sinister",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "354",
+                        "name": "Banette"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 355,
+                    "num": "355",
+                    "name": "Duskull",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/355.png",
+                    "type": [
+                      "Ghost"
+                    ],
+                    "height": "0.8 m",
+                    "weight": "15 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Sinister",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "356",
+                        "name": "Dusclops"
+                      }, 
+                      {
+                        "num": "447",
+                        "name": "Dusknoir"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 356,
+                    "num": "356",
+                    "name": "Dusclops",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/356.png",
+                    "type": [
+                      "Ghost"
+                    ],
+                    "height": "1.6 m",
+                    "weight": "30.6 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Sinister",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "356",
+                        "name": "Dusclops"
+                      },
+                      {
+                        "num": "357",
+                        "name": "Tropius"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 357,
+                    "num": "357",
+                    "name": "Tropius",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/357.png",
+                    "type": [
+                      "Grass",
+                      "Flying"
+                    ],
+                    "height": "2 m",
+                    "weight": "100 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 75,
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fire",
+                      "Ice",
+                      "Flying",
+                      "Poison",
+                      "Rock"
+                    ]
+                  },
+                  {
+                   "id": 358,
+                    "num": "358",
+                    "name": "Chimecho",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/358.png",
+                    "type": [
+                      "Psychc"
+                    ],
+                    "height": "0.6 m",
+                    "weight": "1 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 75,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Bug",
+                      "Sinister",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "358",
+                        "name": "Chimecho"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 359,
+                    "num": "359",
+                    "name": "Absol",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/359.png",
+                    "type": [
+                      "Dark"
+                    ],
+                    "height": "1.2 m",
+                    "weight": "47 kg",
+                    "candy": "Bulbasaur Candy",
+                    "candy_count": 75,
+                    "egg": "10 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Bug",
+                      "Fight",
+                      "Fairy"
+                    ]
+                  },
+                  {
+                   "id": 360,
+                    "num": "360",
+                    "name": "Wynaut",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/360.png",
+                    "type": [
+                      "Psychc"
+                    ],
+                    "height": "0.6 m",
+                    "weight": "14 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 25,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Bug",
+                      "Sinister",
+                      "Ghost"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "202",
+                        "name": "Wobbuffet"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 361,
+                    "num": "361",
+                    "name": "Snorunt",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/361.png",
+                    "type": [
+                      "Ice"
+                    ],
+                    "height": "0.7 m",
+                    "weight": "16.8 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fire",
+                      "Fight",
+                      "Rock",
+                      "Steel"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "362",
+                        "name": "Glalie"
+                      },
+                      {
+                        "num": "478",
+                        "name": "Froslass"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 362,
+                    "num": "362",
+                    "name": "Glalie",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/362.png",
+                    "type": [
+                      "Ice"
+                    ],
+                    "height": "0.71 m",
+                    "weight": "6.9 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Fire",
+                      "Fight",
+                      "Rock",
+                      "Steel"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "362",
+                        "name": "Glalie"
+                      },
+                      {
+                        "num": "478",
+                        "name": "Froslass"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 363,
+                    "num": "363",
+                    "name": "Spheal",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/363.png",
+                    "type": [
+                      "Ice",
+                      "Water"
+                    ],
+                    "height": "0.8 m",
+                    "weight": "39.5 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Fight",
+                      "Rock",
+                      "Plant"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "364",
+                        "name": "Sealeo"
+                      },
+                      {
+                        "num": "365",
+                        "name": "Walrein"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 364,
+                    "num": "364",
+                    "name": "Sealeo",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/364.png",
+                    "type": [
+                      "Ice",
+                      "Water"
+                    ],
+                    "height": "1.1 m",
+                    "weight": "87.6 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Fight",
+                      "Rock",
+                      "Plant"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "364",
+                        "name": "Sealeo"
+                      },
+                      {
+                        "num": "365",
+                        "name": "Walrein"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 365,
+                    "num": "365",
+                    "name": "Walrein",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/365.png",
+                    "type": [
+                      "Ice",
+                      "Water"
+                    ],
+                    "height": "1.4 m",
+                    "weight": "150.6 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Electric",
+                      "Fight",
+                      "Rock",
+                      "Plant"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "364",
+                        "name": "Sealeo"
+                      },
+                      {
+                        "num": "365",
+                        "name": "Walrein"
+                      }
+                    ]
+                  },
+                  {
+                   "id": 366,
+                    "num": "366",
+                    "name": "Clamperl",
+                    "img": "http://www.serebii.net/pokemongo/pokemon/366.png",
+                    "type": [
+                      "Water"
+                    ],
+                    "height": "0.4 m",
+                    "weight": "52.5 kg",
+                    "candy": "Bulbasaur Candy", 
+                    "candy_count": 50,
+                    "egg": "5 km",
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "Plant",
+                      "Electric"
+                    ],
+                    "next_evolution": [
+                      {
+                        "num": "367",
+                        "name": "Huntail"
+                      },
+                      {
+                        "num": "368",
+                        "name": "Gorebyss"
+                      }
+                    ]
+                  },{
+                    "id" : 367 ,
+                    "num" : "367" ,
+                    "name" : "Huntail" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/367.png" ,
+                    "type" : [
+                    "Water"
+                    ],
+                    "height" : "1.7m" ,
+                    "weight" : "27 kg" ,
+                    "candy" : "campler Candy" ,
+                    "candy_count" : 25 ,
+                    "egg" : "3 km" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "Electric",
+                      "Plant"
+                
+                ],
+                    "next_evolution" : [{
+                      "num" : "368" ,
+                      "name" : "Gorebyss"
+                  }]
+                },{
+                    "id" : 368 ,
+                    "num" : "368" ,
+                    "name" : "Goerebyss" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/368.png" ,
+                    "type" : [
+                      "Water"
+                    ],
+                    "Height" : "1.8m" ,
+                    "height" : "22.6 kg" ,
+                    "candy" : "campler candy" ,
+                    "candy_count" : 50,
+                    "egg" : "3 km" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "Electric",
+                      "Plant"
+                    ]
+                    },{
+                    "id" : 369 ,
+                    "num" : "369" ,
+                    "name" : "Relicanth" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/369.png" ,
+                    "type" : [
+                      "Water Rock"
+                    ],
+                    "height" : "1 m" ,
+                    "weight" : "23.4 kg" ,
+                    "candy" : "relicanth candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "5 km" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "plant",
+                      "eart" ,
+                       "Electric",
+                      "figth"
+                
+                  ]
+                  },{
+                    "id" : 370 ,
+                    "num" : "370" ,
+                    "name" : "luvdisc" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/370.png" ,
+                    "type" : [
+                      "Water"
+                    ],
+                    "height" : "0.6 m" ,
+                    "weight" : "8.7 kg" ,
+                    "candy" : "luvdisc candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "2 km" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "plant",
+                       "Electric"
+                  ]
+                  },{
+                    "id" : 371 ,
+                    "num" : "371" ,
+                    "name" : "Bagon" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/371.png" ,
+                    "type" : [
+                      "dragon"
+                    ],
+                    "height" : "0.6 m" ,
+                    "weight" : "42.1 kg" ,
+                    "candy" : "bagon candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "fair",
+                       "dragon",
+                        "dragon",
+                        "ice"
+                ],
+                    "next_evolution " : [{
+                      "num" : "372" ,
+                      "name" : "shelgon"
+                    }, {
+                      "num" : "373" ,
+                      "name" : "salamance"
+                    }, {
+                      "num" : "373" ,
+                      "name" : "megasalamance"
+                    }
+                  ]
+                  },{
+                    "id" : 372 ,
+                    "num" : "372" ,
+                    "name" : "shelgon" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/372.png" ,
+                    "type" : [
+                      "dragon"
+                    ],
+                    "height" : "1.1 m" ,
+                    "weight" : "110.5 kg" ,
+                    "candy" : "bagon candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "fair",
+                      "dragon",
+                      "ice"
+                ],
+                     "next_evolution":[{
+                      "num" : "373" ,
+                      "name" : "salamence"
+                     },
+                       {
+                      "num" : "373" ,
+                      "name" : "megasalamance"
+                    }]
+                    },{
+                    "id" : 373 ,
+                    "num" : "373" ,
+                    "name" : "salamance" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/373.png" ,
+                    "type" : [
+                      "dragon"
+                    ],
+                    "height" : "1.5 m" ,
+                    "weight" : "102.6 kg" ,
+                    "candy" : "bagon candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "fair",
+                      "dragon",
+                      "ice"
+                ],
+                      "next_evolution":[{
+                      "num" : "373" ,
+                      "name" : "megasalamance"
+                    }]
+                    },{
+                    "id" : 374 ,
+                    "num" : "374" ,
+                    "name" : "beldum" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/374.png" ,
+                    "type" : [
+                      "steel psychc"
+                    ],
+                    "height" : "0.6 m" ,
+                    "weight" : "95.2 kg" ,
+                    "candy" : "beldum candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "dark",
+                      "fire",
+                      "ghost",
+                      "ground"
+                ],
+                    " next_evolution " : [{
+                      "num" : "375" ,
+                      "name" : "metang"
+                    }, {
+                      "num" : "376" ,
+                      "name" : "metagross"
+                    }]                
+                    },{
+                    "id" : 375 ,
+                    "num" : "375" ,
+                    "name" : "metang" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/375.png" ,
+                    "type" : [
+                      "steel psychc"
+                    ],
+                    "height" : "1.2 m" ,
+                    "weight" : "202.2 kg" ,
+                    "candy" : "beldum candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "dark",
+                      "fire",
+                      "ghost",
+                      "ground"
+                ],
+                    "next_evolution" : [{
+                      "num" : "376" ,
+                      "name" : "Metagross"
+                    }]
+                    },{
+                    "id" : 376 ,
+                    "Num" : "376" ,
+                    "name" : "metagross" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/376.png" ,
+                    "type" : [
+                      "steel psychc"
+                    ],
+                    "height" : "1.6 m" ,
+                    "weight" : "550 kg" ,
+                    "candy" : "beldum candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "dark",
+                      "fire",
+                      "ghost",
+                      "ground"
+                ],
+                    " next_evolution " : [{
+                      "num" : " 376 " ,
+                      "name" : "megametagross "
+                    }]
+                    },{
+                    "id" : 377 ,
+                    "Num" : "377" ,
+                    "name" : "Regirock" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/377.png" ,
+                    "type" : [
+                      "rock"
+                    ],
+                    "height" : "1.7 m" ,
+                    "weight" : "230 kg" ,
+                    "candy" : "regirock candy" ,
+                    "candy_count" : 75 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "fighting",
+                      "ground",
+                      "grass",
+                      "steel",
+                      "water"
+                ]
+                },{
+                    "id" : 378 ,
+                    "num" : "378" ,
+                    "name" : "Regice" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/378.png" ,
+                    "type" : [
+                      "ice"
+                    ],
+                    "height" : "1.8 m" ,
+                    "weight" : "178 kg" ,
+                    "candy" : "regice candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "fighting",
+                      "Rock",
+                      "fire",
+                      "steel"
+                ]
+                },{
+                    "id" : 379 ,
+                    "num" : "379" ,
+                    "name" : "Registeel" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/379.png" ,
+                    "type" : [
+                      "steel"
+                    ],
+                    "height" : "1.9 m" ,
+                    "weight" : "205 kg" ,
+                    "candy" : "regirock candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "fighting",
+                      "Rock",
+                      "fire",
+                      "steel"
+                ]
+                },{
+                    "id" : 380 ,
+                    "num" : "380" ,
+                    "name" : "Latias" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/380.png" ,
+                    "type" : [
+                      "dragon psychic"
+                    ],
+                    "height" : "1.4 m" ,
+                    "weight" : "40 kg" ,
+                    "candy" : "latias candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "bug",
+                      "dark",
+                      "fairy",
+                      "dragon",
+                      "ice",
+                      "ghost"
+                ]
+                },{
+                    "id" : 381 ,
+                    "num" : "381" ,
+                    "name" : "Latios" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/381.png" ,
+                    "type" : [
+                      "dragon psychic"
+                    ],
+                    "height" : "2.1 m" ,
+                    "weight" : "60 kg" ,
+                    "candy" : "latios candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "bug",
+                      "dark",
+                      "fairy",
+                      "dragon",
+                      "ice",
+                      "ghost"
+                ]
+                },{
+                    "id" : 382 ,
+                    "num" : "382" ,
+                    "name" : "kyorge" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/382.png" ,
+                    "type" : [
+                      "water"
+                    ],
+                    "height" : "4.5 m" ,
+                    "weight" : "352 kg" ,
+                    "candy" : "latios candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "electric",
+                      "grass"                
+                ]
+                },{
+                    "id" : 383 ,
+                    "num" : "383" ,
+                    "name" : "groundon" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/383.png" ,
+                    "type" : [
+                      "groundon"
+                    ],
+                    "height" : "3.51 m" ,
+                    "weight" : "950 kg" ,
+                    "candy" : "groundon candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "ice",
+                      "grass",
+                      "water"
+                    
+                ]
+                },{
+                    "id" : 384 ,
+                    "num" : "384" ,
+                    "name" : "rayquaza" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/384.png" ,
+                    "type" : [
+                      "dragon flying"
+                    ],
+                    "height" : "7.01 m" ,
+                    "weight" : "206.5 kg" ,
+                    "candy" : "rayquaza candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "grass",
+                      "ground"
+                    ]
+                  },{
+                    "id" : 385 ,
+                    "num" : "385" ,
+                    "name" : "jirachi" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/385.png" ,
+                    "type" : [
+                      "steel psychic"
+                    ],
+                    "height" : "0.3 m" ,
+                    "weight" : "1.1 kg" ,
+                    "candy" : "jirachi candy" ,
+                    "candy_count" : 100 ,
+                    "egg" : "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses" : [
+                      "dark",
+                      "fire",
+                      "ground",
+                      "ghost"
+                ]
+                },{
+                    "id" : 386 ,
+                    "num" : "386" ,
+                    "name" : "Deoxys" ,
+                    "img" : "http://www.serebii.net/pokemongo/pokemon/386.png" ,
+                    "type" : [
+                      " psychic"
+                    ],
+                    "height" : "1.7 m" ,
+                    "weight" : "60 kg" ,
+                    "candy" : "Deoxys candy" ,
+                    "candy_count": 100 ,
+                    "egg": "not in eggs" ,
+                    "spawn_chance": 0,
+                    "avg_spawns": 0,
+                    "spawn_time": "N/A",
+                    "multipliers": null,
+                    "weaknesses": [
+                      "bug",
+                      "dark",
+                      "ghost"
+                ]
+            }
+        ]
+    }    
 ]
 }
