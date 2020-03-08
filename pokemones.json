@@ -708,6 +708,7 @@
             "num": "520",
             "name": "Tranquill"
           }]
+          
       },{
           "id": 520,
           "num": "520",
@@ -734,7 +735,13 @@
           "prev_evolution": [{
             "num": "519",
             "name": "Pidove"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 521,
           "num": "521",
@@ -767,7 +774,7 @@
             "name": "Tranquill"
           }]
       },{
-          "id": 521,
+          "id": 522,
           "num": "522",
           "name": "Blitzle",
           "img": "https://www.serebii.net/pokemon/art/522.png",
@@ -813,7 +820,13 @@
           "prev_evolution": [{
             "num": "522",
             "name": "Bitzle"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 524,
           "num": "524",
@@ -963,6 +976,12 @@
             "rock",
             "Ghost",
             "Sinister"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
          "id": 529,
@@ -1040,7 +1059,13 @@
           "prev_evolution": [{
               "num": "0",
               "name": "No tiene evolucion"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 532,
           "num": "532",
@@ -1246,7 +1271,13 @@
           "prev_evolution": [{
               "num": "0",
               "name": "No tiene evolucion"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 539,
           "num": "539",
@@ -1272,7 +1303,13 @@
           "prev_evolution": [{
               "num": "0",
               "name": "No tiene evolucion"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 540,
           "num": "540",
@@ -1373,7 +1410,13 @@
               },{
               "num": "541",
               "name": "Swadloon"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 543,
           "num": "543",
@@ -1406,7 +1449,13 @@
               },{
               "num": "545",
               "name": "Scolipede"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 544,
           "num": "544",
@@ -1471,7 +1520,13 @@
               },{
               "num": "544",
               "name": "Whirlipede"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 546,
           "num": "546",
@@ -1524,6 +1579,12 @@
             "Ice",
             "Flying",
             "Psychic"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 548,
@@ -1551,7 +1612,12 @@
           "prev_evolution": [{
             "num": "549",
             "name": "Liligant"
-          }]
+          }],"next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 549,
           "num": "549",
@@ -1570,6 +1636,12 @@
           "multipliers": [0],
           "weaknesses": [
             "Fire"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 550,
@@ -1590,6 +1662,12 @@
           "weaknesses": [
             "Electric",
             "Grass"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 551,
@@ -1618,7 +1696,13 @@
             },{
             "num": "553",
             "name": "Krokodile"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 552,
           "num": "552",
@@ -1639,6 +1723,12 @@
           "multipliers": [1.79],
           "weaknesses": [
             "Water"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 553,
@@ -1659,6 +1749,12 @@
           "multipliers": [1],
           "weaknesses": [
             "Water"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 554,
@@ -1706,6 +1802,12 @@
           "multipliers": [1.4],
           "weaknesses": [
             "Rock"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 556,
@@ -1725,6 +1827,12 @@
           "multipliers": [10],
           "weaknesses": [
             "Fire"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 557,
@@ -1774,6 +1882,12 @@
           ],
           "weaknesses": [
             "Fire"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 559,
@@ -1795,6 +1909,12 @@
           "multipliers": [11] ,
           "weaknesses": [
             "Rock"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 560,
@@ -1819,6 +1939,12 @@
           ],
           "weaknesses": [
             "Rock"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 561,
@@ -1843,6 +1969,12 @@
           ],
           "weaknesses": [
             "Electric"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 562,
@@ -1889,7 +2021,13 @@
           ],
           "weaknesses": [
               "Grass"
-          ] 
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 564,
           "num": "564",
@@ -1934,6 +2072,12 @@
           "multipliers": [11],
           "weaknesses": [
             "Grass"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 566,
@@ -1962,7 +2106,13 @@
           "prev_evolution": [{
             "num": "567",
             "name": "Archeops"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 567,
           "num": "567",
@@ -1983,6 +2133,12 @@
           "multipliers": [11],
           "weaknesses": [
             "Fighting"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 568,
@@ -2029,6 +2185,12 @@
           "multipliers": [11],
           "weaknesses": [
               "Pshich"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 570,
@@ -2075,6 +2237,12 @@
           "multipliers": [12],
           "weaknesses": [
             "Rock"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 572,
@@ -2118,6 +2286,12 @@
           "multipliers": [10],
           "weaknesses": [
             "Rock"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
       },{
           "id": 574,
@@ -2212,7 +2386,13 @@
           }, {
               "num": "575",
               "name": "Gothorita"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 577,
           "num": "577",
@@ -2270,7 +2450,13 @@
               }, {
               "num": "579",
               "name": "Reiniclus"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 579,
           "num": "579",
@@ -2299,7 +2485,13 @@
               },{
               "num": "578",
               "name": "Duosion"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 580,
           "num": "580",
@@ -2355,7 +2547,13 @@
           "prev_evolution": [{
               "num": "582",
               "name": "Vanillite"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
       },{
           "id": 582,
           "num": "582",
@@ -2508,7 +2706,13 @@
           "prev_evolution": [{
               "num": "585",
               "name": "Deerling"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
           }, {
           "id": 587,
           "num": "587",
@@ -2532,6 +2736,12 @@
               "Ice",
               "Flying",
               "Psychic"
+          ],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
           ]
           }, {
           "id": 588,
@@ -2618,7 +2828,13 @@
           "prev_evolution": [{
               "num": "590",
               "name": "Foongus"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
           },{
           "id": 592,
           "num": "592",
@@ -2679,7 +2895,13 @@
           "prev_evolution": [{
               "num": "592",
               "name": "Frillish"
-          }]
+          }],
+          "next_evolution": [
+            {
+              "num": "000",
+              "name": "This is the final"
+            }
+          ]
           },{
               "id": 594,
               "num": "594",
@@ -2704,6 +2926,12 @@
                   "Ice",
                   "Flying",
                   "Psychic"
+              ],
+              "next_evolution": [
+                {
+                  "num": "000",
+                  "name": "This is the final"
+                }
               ]
               },{
               "id": 595,
@@ -2763,7 +2991,13 @@
               "prev_evolution": [{
                   "num": "595",
                   "name": "Joltik"
-              }]
+              }],
+              "next_evolution": [
+                {
+                  "num": "000",
+                  "name": "This is the final"
+                }
+              ]
               }, {
               "id": 597,
               "num": "597",
@@ -2822,7 +3056,13 @@
               "prev_evolution": [{
                   "num": "597",
                   "name": "Ferroseed"
-              }]
+              }],
+              "next_evolution": [
+                {
+                  "num": "000",
+                  "name": "This is the final"
+                }
+              ]
               }, {
               "id": 599,
               "num": "599",
@@ -3150,7 +3390,13 @@
                   }, {
                       "num": "608",
                       "name": "Lampent"
-                  }]
+                  }],
+                  "next_evolution": [
+                    {
+                      "num": "000",
+                      "name": "This is the final"
+                    }
+                  ]
                   }, {
                   "id": 610,
                   "num": "610",
@@ -3242,7 +3488,13 @@
                   }, {
                       "num": "611",
                       "name": "Fraxure"
-                  }]
+                  }],
+                  "next_evolution": [
+                    {
+                      "num": "000",
+                      "name": "This is the final"
+                    }
+                  ]
                   }, {
                   "id": 613,
                   "num": "613",
@@ -3338,7 +3590,13 @@
                   }, {
                       "num": "614",
                       "name": "Beartic"
-                  }]
+                  }],
+                  "next_evolution": [
+                    {
+                      "num": "000",
+                      "name": "This is the final"
+                    }
+                  ]
                   }, {
                   "id": 616,
                   "num": "616",
@@ -3426,7 +3684,13 @@
                   }, {
                       "num": "617",
                       "name": "Accelgor"
-                  }]
+                  }],
+                  "next_evolution": [
+                    {
+                      "num": "000",
+                      "name": "This is the final"
+                    }
+                  ]
                   }, {
                   "id": 619,
                   "num": "619",
@@ -3476,7 +3740,13 @@
                   "prev_evolution": [{
                       "num": "619",
                       "name": "Mienfoo"
-                  }]
+                  }],
+                  "next_evolution": [
+                    {
+                      "num": "000",
+                      "name": "This is the final"
+                    }
+                  ]
                   }, {
                       "id": 621,
                       "num": "621",
@@ -3529,7 +3799,13 @@
                       "prev_evolution": [{
                           "num": "621",
                           "name": "Druddigon"
-                      }]
+                      }],
+                      "next_evolution": [
+                        {
+                          "num": "000",
+                          "name": "This is the final"
+                        }
+                      ]
                       }, {
                       "id": 623,
                       "num": "623",
@@ -3583,7 +3859,13 @@
                       "prev_evolution": [{
                           "num": "623",
                           "name": " Golurk"
-                      }]
+                      }],
+                      "next_evolution": [
+                        {
+                          "num": "000",
+                          "name": "This is the final"
+                        }
+                      ]
                       }, {
                       "id": 625,
                       "num": "625",
@@ -3631,7 +3913,13 @@
                       "prev_evolution": [{
                           "num": "625",
                           "name": "Bisharp"
-                      }]
+                      }],
+                      "next_evolution": [
+                        {
+                          "num": "000",
+                          "name": "This is the final"
+                        }
+                      ]
                       }, {
                       "id": 627,
                       "num": "627",
@@ -3689,7 +3977,13 @@
                         }, {
                           "num": "628",
                           "name": "Braviary"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 629,
                         "num": "629",
@@ -3754,7 +4048,13 @@
                         }, {
                           "num": "630",
                           "name": "Mandibuzz"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 631,
                         "num": "631",
@@ -3843,7 +4143,13 @@
                         }, {
                           "num": "634",
                           "name": "Zweilous"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 634,
                         "num": "634",
@@ -3930,7 +4236,13 @@
                         }, {
                           "num": "637",
                           "name": "Volcarona"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 637,
                         "num": "637",
@@ -4025,7 +4337,13 @@
                         }, {
                           "num": "639",
                           "name": "Terrakion"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 640,
                         "num": "640",
@@ -4213,7 +4531,13 @@
                         }, {
                           "num": "645",
                           "name": "ladorus"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 646,
                         "num": "646",
@@ -4265,7 +4589,13 @@
                         "prev_evolution": [{
                           "num": "647",
                           "name": "Keldeo"
-                        }]
+                        }],
+                        "next_evolution": [
+                          {
+                            "num": "000",
+                            "name": "This is the final"
+                          }
+                        ]
                       }, {
                         "id": 648,
                         "num": "648",
@@ -4320,7 +4650,13 @@
                         "prev_evolution": [{
                           "num": "649",
                           "name": "Genesect"
-                      }]
+                      }],
+                      "next_evolution": [
+                        {
+                          "num": "000",
+                          "name": "This is the final"
+                        }
+                      ]
                     }
   ]
 }
