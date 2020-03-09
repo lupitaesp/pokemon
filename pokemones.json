@@ -16641,7 +16641,6 @@
             }
           ]
         },
-    
         {
           "id": 721,
           "num": "721",
@@ -16675,6 +16674,2606 @@
               "name": "None"
             }
           ]
-        }
-  ]
-}
+        },
+        {
+          "id": 722,
+          "num": "722",
+          "name": "Rowlet",
+          "img": "http://www.serebii.net/pokemongo/pokemon/722.png",
+          "type": [
+            "Grass","Flying"
+          ],
+          "height": "0.3 m",
+          "weight": "1.5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Flying",
+              "Ice",
+              "Poison",
+              "Rock"
+          ],
+          "next_evolution": [{
+            "num": "723",
+            "name": "Dartrix"
+          },
+          {
+            "num": "724",
+            "name": "Decidueye"
+          }]
+        },{
+          "id": 723,
+          "num": "723",
+          "name": "Dartrix",
+          "img": "http://www.serebii.net/pokemongo/pokemon/723.png",
+          "type": [
+            "Grass","Flying"
+          ],
+          "height": "0.7 m",
+          "weight": "16 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Flying",
+              "Ice",
+              "Poison",
+              "Rock"
+          ],
+          "prev_evolution": [
+            {
+              "num": "722",
+              "name": "Rowlet"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "724",
+              "name": "Decidueye"
+            }
+          ]
+        },{
+          "id": 724,
+          "num": "724",
+          "name": "Decidueye",
+          "img": "http://www.serebii.net/pokemongo/pokemon/724.png",
+          "type": [
+            "Grass","Ghost"
+          ],
+          "height": "1.6 m",
+          "weight": "36.6 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Ghost",
+              "Fire",
+              "Flying",
+              "Sinister",
+              "Ice"
+          ],
+          "prev_evolution": [
+            {
+              "num": "723",
+              "name": "Dartrix"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "0",
+              "name": "This is the final Evolution"
+            }
+          ]
+        },{
+          "id": 725,
+          "num": "725",
+          "name": "Litten",
+          "img": "http://www.serebii.net/pokemongo/pokemon/725.png",
+          "type": [
+            "Fire"
+          ],
+          "height": "0.4 m",
+          "weight": "4.3 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Water",
+              "Land",
+              "Rock"
+          ],
+            "next_evolution": [
+            {
+              "num": "726",
+              "name": "Torracat"
+            },
+            {
+              "num": "727",
+              "name": "Incineroar"
+            }
+          ]
+        },{
+          "id": 726,
+          "num": "726",
+          "name": "Torracat",
+          "img": "http://www.serebii.net/pokemongo/pokemon/726.png",
+          "type": [
+            "Fire"
+          ],
+          "height": "0.7 m",
+          "weight": "25 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Water",
+              "Land",
+              "Rock"
+          ],
+          "prev_evolution": [
+            {
+              "num": "725",
+              "name": "Litten"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "726",
+              "name": "Incineroar"
+            }
+          ]
+        },{
+          "id": 727,
+          "num": "727",
+          "name": "Incineroar",
+          "img": "http://www.serebii.net/pokemongo/pokemon/727.png",
+          "type": [
+            "Fire", "Dark"
+          ],
+          "height": "1.8 m",
+          "weight": "83 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Water",
+              "Land",
+              "Fighting",
+              "Rock"
+          ],
+          "prev_evolution": [
+            {
+              "num": "726",
+              "name": "Incineroar"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "0",
+              "name": "This is the final Evolution"
+            }
+          ]
+        },{
+          "id": 728,
+          "num": "728",
+          "name": "Popplio",
+          "img": "http://www.serebii.net/pokemongo/pokemon/728.png",
+          "type": [
+            "Water"
+          ],
+          "height": "0.4 m",
+          "weight": "7.5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Electric"
+          ],
+            "next_evolution": [
+            {
+              "num": "729",
+              "name": "Brionne"
+            },
+            {
+              "num": "730",
+              "name": "Primarina"
+            }
+          ]
+        },{
+          "id": 729,
+          "num": "729",
+          "name": "Brionne",
+          "img": "http://www.serebii.net/pokemongo/pokemon/729.png",
+          "type": [
+            "Water"
+          ],
+          "height": "0.6 m",
+          "weight": "17.5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Electric"
+          ],
+          "prev_evolution": [
+            {
+              "num": "728",
+              "name": "Popplio"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "730",
+              "name": "Primarina"
+            }
+          ]
+        },{
+          "id": 730,
+          "num": "730",
+          "name": "Primarina",
+          "img": "http://www.serebii.net/pokemongo/pokemon/730.png",
+          "type": [
+            "Water","Fairy"
+          ],
+          "height": "1.8 m",
+          "weight": "44 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Electric",
+              "Poison"
+          ],
+          "prev_evolution": [
+            {
+              "num": "729",
+              "name": "Brionne"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "0",
+              "name": "This is the final Evolution"
+            }
+          ]
+        },{
+          "id": 731,
+          "num": "731",
+          "name": "Pikipek",
+          "img": "http://www.serebii.net/pokemongo/pokemon/731.png",
+          "type": [
+            "Normal","Flying"
+          ],
+          "height": "0.3 m",
+          "weight": "1.2 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Electric",
+              "Ice",
+              "Rock"
+          ],
+            "next_evolution": [
+            {
+              "num": "732",
+              "name": "Trumbeak"
+            },
+            {
+              "num": "733",
+              "name": "Toucannon"
+            }
+          ]
+        },{
+          "id": 732,
+          "num": "732",
+          "name": "Trumbeak",
+          "img": "http://www.serebii.net/pokemongo/pokemon/732.png",
+          "type": [
+            "Normal","Flying"
+          ],
+          "height": "0.6 m",
+          "weight": "14.8 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Electric",
+              "Ice",
+              "Rock"
+          ],
+          "prev_evolution": [
+            {
+              "num": "731",
+              "name": "Pikipek"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "733",
+              "name": "Toucannon"
+            }
+          ]
+        },{
+          "id": 733,
+          "num": "733",
+          "name": "Toucannon",
+          "img": "http://www.serebii.net/pokemongo/pokemon/733.png",
+          "type": [
+            "Normal","Flying"
+          ],
+          "height": "1.1 m",
+          "weight": "26 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Electric",
+              "Ice",
+              "Rock"
+          ],
+          "prev_evolution": [
+            {
+              "num": "732",
+              "name": "Trumbeak"
+            }
+            ],
+            "next_evolution": [
+            {
+              "num": "0",
+              "name": "This is the final Evolution"
+            }
+          ]
+        },{
+          "id": 734,
+          "num": "734",
+          "name": "Yungoos",
+          "img": "http://www.serebii.net/pokemongo/pokemon/734.png",
+          "type": [
+            "Normal"
+          ],
+          "height": "0.4 m",
+          "weight": "6 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fight"
+          ],
+            "next_evolution": [
+            {
+              "num": "735",
+              "name": "Gumshoos"
+            }
+          ]
+        },{
+          "id": 735,
+          "num": "735",
+          "name": "Gumshoos",
+          "img": "http://www.serebii.net/pokemongo/pokemon/735.png",
+          "type": [
+            "Normal"
+          ],
+          "height": "0.7 m",
+          "weight": "14.2 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fight"
+          ],
+            "prev_evolution": [
+            {
+              "num": "734",
+              "name": "Yungoos"
+            }
+          ],
+            "next_evolution":[
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+        },{
+          "id": 736,
+          "num": "736",
+          "name": "Grubbin",
+          "img": "http://www.serebii.net/pokemongo/pokemon/736.png",
+          "type": [
+            "Bug"
+          ],
+          "height": "0.4 m",
+          "weight": "4.4 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fire",
+              "Flying",
+              "Rock"
+          ],
+            "next_evolution":[
+              {
+                "num": "737",
+                "name": "Charjabug"
+              },
+              {
+                "num": "738",
+                "name": "Vikavolt"
+              }
+            ]
+        },{
+          "id": 737,
+          "num": "737",
+          "name": "Charjabug",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/2/2e/Charjabug.png/revision/latest/scale-to-width-down/350?cb=20160701140340",
+          "type": [
+              "Bug",
+              "Electric"
+            ],
+          "height": "0.5 m",
+          "weight": "10.5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+            "Fire",
+            "Rock"
+          ],
+            "prev_evolution": [
+                {
+                    "num": "736",
+                    "name": "Grubbin"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "738",
+                    "name": "Vikavolt"
+                }
+            ]
+        }, {
+          "id": 738,
+          "num": "738",
+          "name": "Vikavolt",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/cd/Vikavolt.png/revision/latest/scale-to-width-down/350?cb=20160701142856",
+          "type": [
+            "Bug",
+            "Electric"
+          ],
+          "height": "1.5 m",
+          "weight": "45.0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers":null,
+          "weaknesses": [
+            "Fire",
+            "Rock"
+          ],
+          "prev_evolution": [{
+            "num": "736",
+            "name": "Grubbin"
+          },{
+            "num": "737",
+            "name": "Charjabug"
+          }],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        }, {
+          "id": 739,
+          "num": "739",
+          "name": "Crabrawler",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/aa/Crabrawler.png/revision/latest/scale-to-width-down/350?cb=20160819165217",
+          "type": [
+            "Fight"
+          ],
+          "height": "0.6 m",
+          "weight": "7.0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+            "Flying",
+            "Fairy",
+            "Psychic"
+          ],
+          "next_evolution": [
+            {
+              "num": "740",
+              "name": "Crabominable"
+            }
+          ]
+        }, {
+          "id": 740,
+          "num": "740",
+          "name": "Crabominable",
+          "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/9/96/Crabominable.png/revision/latest/scale-to-width-down/350?cb=20161213001806",
+          "type": [
+            "Fight",
+            "Ice"
+          ],
+          "height": "1.7 m",
+          "weight": "180.0 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+            "Flying",
+            "Fairy",
+            "Psychic"
+          ],
+          "prev_evolution": [
+          {
+            "num": "739",
+            "name": "Crabrawler"
+          }],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"  
+          }]
+        }, {
+            "id": 741,
+            "num": "741",
+            "name": "Oricorio",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/5/56/Oricorio.png/revision/latest/scale-to-width-down/350?cb=20160801153730",
+            "type": [
+              "Psychic",
+              "Electric",
+              "Fire",
+              "Ghost",
+              "Flying"
+            ],
+            "height": "0.6 m",
+            "weight": "3.4 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Rock",
+              "Electric"
+            ],
+            "next_evolution": [
+              {
+                  "num": "0",
+                  "name": "This is the final Evolution"
+              }
+              ]
+          },{
+            "id": 742,
+            "num": "742",
+            "name": "Cutiefly",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/7/76/Cutiefly.png/revision/latest/scale-to-width-down/350?cb=20160701135657",
+            "type": [
+              "Bug",
+              "Fairy"
+            ],
+            "height": "0.1 m",
+            "weight": "0.2 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fire",
+              "Rock",
+              "Flying",
+              "Poison",
+              "Steel"
+            ],
+              "next_evolution": [
+              {
+                "num": "743",
+                "name": "Ribombee"
+              }
+            ]
+          },{
+            "id": 743,
+            "num": "743",
+            "name": "Ribombee",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c4/Ribombee.png/revision/latest/scale-to-width-down/350?cb=20161014161434",
+            "type": [
+              "Bug",
+              "Fairy"
+            ],
+            "height": "0.2 m",
+            "weight": "0.5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fire",
+              "Rock",
+              "Flying",
+              "Poison",
+              "Steel"
+            ],
+            "prev_evolution": [
+                {
+                  "num": "742",
+                  "name": "Cutiefly"
+                }],
+            "next_evolution":[{
+                "num":"0",
+                "name":"This is the final Evolution"  
+              }]
+          },{
+            "id": 744,
+            "num": "744",
+            "name": "Rockruff",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/1/13/Rockruff.png/revision/latest/scale-to-width-down/350?cb=20160701142430",
+            "type": [
+              "Rock"
+            ],
+            "height": "0.5 m",
+            "weight": "9.2 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Steel",
+              "Plant",
+              "Fight",
+              "Land"
+            ],
+            "next_evolution": [
+                {
+                  "num": "745",
+                  "name": "Lycanroc"
+                }
+                ]
+          },{
+            "id": 745,
+            "num": "745",
+            "name": "Lycanroc",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/ad/Lycanroc.png/revision/latest/scale-to-width-down/350?cb=20180206060902",
+            "type": [
+              "Rock"
+            ],
+            "height": "0.8 m",
+            "weight": "25.0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Steel",
+              "Plant",
+              "Fight",
+              "Land"
+            ],
+            "prev_evolution": [
+                {
+                  "num": "744",
+                  "name": "Rockruff"
+                }
+                ],
+            "next_evolution":[{
+              "num":"0",
+              "name":"This is the final Evolution"  
+            }]
+          },{
+            "id": 746,
+            "num": "746",
+            "name": "Wishiwashi",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c8/Wishiwashi.png/revision/latest/scale-to-width-down/350?cb=20160815221555",
+            "type": [
+              "Water"
+            ],
+            "height": "0.2 m",
+            "weight": "0.3 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Plant",
+              "Electric"
+            ],
+            "next_evolution": [
+              {
+                  "num": "0",
+                  "name": "This is the final Evolution"
+              }
+              ]
+          },{
+            "id": 747,
+            "num": "747",
+            "name": "Mareanie",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a9/Mareanie.png/revision/latest/scale-to-width-down/350?cb=20170611004933",
+            "type": [
+              "Poison",
+              "Water"
+            ],
+            "height": "0.4 m",
+            "weight": "8.0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Psychic",
+              "Electric",
+              "Land"
+            ],
+            "next_evolution": [
+                {
+                  "num": "748",
+                  "name": "Toxapex"
+                }
+                ]
+          },{
+            "id": 748,
+            "num": "748",
+            "name": "Toxapex",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a4/Toxapex.png/revision/latest/scale-to-width-down/350?cb=20170611005405",
+            "type": [
+              "Poison",
+              "Water"
+            ],
+            "height": "0.7 m",
+            "weight": "14.5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Psychic",
+              "Electric",
+              "Land"
+            ],
+            "prev_evolution": [
+                {
+                  "num": "747",
+                  "name": "Mareanie"
+                }
+                ],
+            "next_evolution":[{
+              "num":"0",
+              "name":"This is the final Evolution"  
+            }]
+          },{
+            "id": 749,
+            "num": "749",
+            "name": "Mudbray",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/0/09/Mudbray.png/revision/latest/scale-to-width-down/350?cb=20160801162549",
+            "type": [
+              "Land"
+            ],
+            "height": "1.0 m",
+            "weight": "110.0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Plant",
+              "Ice"
+            ],
+            "next_evolution": [
+                {
+                  "num": "750",
+                  "name": "Mudsdale"
+                }
+                ]
+          },{
+            "id": 750,
+            "num": "750",
+            "name": "Mudsdale",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/5/5b/Mudsdale.png/revision/latest/scale-to-width-down/350?cb=20160720222759",
+            "type": [
+              "Land"
+            ],
+            "height": "2.5 m",
+            "weight": "920.0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Plant",
+              "Ice"
+            ],
+            "prev_evolution": [
+                {
+                  "num": "749",
+                  "name": "Mudbray"
+                }
+                ],
+            "next_evolution":[{
+              "num":"0",
+              "name":"This is the final Evolution"  
+            }]
+          },{
+            "id": 751,
+            "num": "751",
+            "name": "Dewpider",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/4/44/Dewpider.png/revision/latest/scale-to-width-down/350?cb=20161213235244",
+            "type": [
+              "Water",
+              "Bug"
+            ],
+            "height": "0.3 m",
+            "weight": "4.0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Flying",
+              "Electric",
+              "Rock"
+            ],
+            "next_evolution": [
+                {
+                  "num": "752",
+                  "name": "Araquanid"
+                }
+                ]
+          },{
+            "id": 752,
+            "num": "752",
+            "name": "Araquanid",
+            "img": "http://www.serebii.net/pokemongo/pokemon/752.png",
+            "type": [
+              "Water",
+              "Bug"
+            ],
+            "height": "1.8 m",
+            "weight": "82 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Electric",
+              "Flying",
+              "Rock"
+            ],
+            "prev_evolution": [{
+              "num": "751",
+              "name": "Dewpider"
+            }],
+            "next_evolution": [{
+              "num": "0",
+              "name": "This is the final evolution"
+            }]
+          }, {
+            "id": 753,
+            "num": "753",
+            "name": "Fomantis",
+            "img": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/02/latest/20160801161829/Fomantis.png/1200px-Fomantis.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "0.3 m",
+            "weight": "1.5 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Poison",
+              "Flying",
+              "Bug"
+            ],
+            "next_evolution": [{
+              "num": "754",
+              "name": "Lurantis"
+            }]
+          },{
+            "id": 754,
+            "num": "754",
+            "name": "Lurantis",
+            "img": "http://www.serebii.net/pokemongo/pokemon/754.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "0.9 m",
+            "weight": "18.5 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Poison",
+              "Flying",
+              "Bug"
+            ],
+            "prev_evolution":[{
+                "num":"753",
+                "name":"Fomantis"
+            }],
+            "next_evolution": [{
+              "num": "0",
+              "name": "This is the final evolution"
+            }]
+          },{
+            "id": 755,
+            "num": "755",
+            "name": "Morelull",
+            "img": "http://www.serebii.net/pokemongo/pokemon/755.png",
+            "type": [
+              "Grass",
+              "Fairy"
+            ],
+            "height": "0.2 m",
+            "weight": "1.5 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Poison",
+              "Flying",
+              "Acero"
+            ],
+            "next_evolution": [{
+              "num": "756",
+              "name": "Shiinotic"
+            }]
+          }, {
+            "id": 756,
+            "num": "756",
+            "name": "Shiinotic",
+            "img": "http://www.serebii.net/pokemongo/pokemon/756.png",
+            "type": [
+              "Grass",
+              "Fairy"
+            ],
+            "height": "1.0 m",
+            "weight": "11.5 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Poison",
+              "Flying",
+              "Acero"
+            ],
+            "prev_evolution": [{
+                "num": "755",
+                "name": "Morelull"
+              }],
+            "next_evolution": [{
+              "num": "0",
+              "name": "This is the final evolution"
+            }]
+          },{
+            "id": 757,
+            "num": "757",
+            "name": "Salandit",
+            "img": "http://www.serebii.net/pokemongo/pokemon/757.png",
+            "type": [
+              "Poison",
+              "Fire"
+            ],
+            "height": "0.6 m",
+            "weight": "4.8 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Ground",
+              "Psychic",
+              "Rock"
+            ],
+            "next_evolution": [{
+              "num": "758",
+              "name": "Salazzle"
+            }]
+          },{
+            "id": 758,
+            "num": "758",
+            "name": "Salazzle",
+            "img": "http://www.serebii.net/pokemongo/pokemon/758.png",
+            "type": [
+              "Poison",
+              "Fire"
+            ],
+            "height": "1.2 m",
+            "weight": "22.2 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Water",
+              "Ground",
+              "Psychic",
+              "Rock"
+            ],
+            "prev_evolution":[{
+                "num":"757",
+                "name":"Salandit"
+            }],
+            "next_evolution": [{
+              "num": "0",
+              "name": "This is the final evolution"
+            }]
+          },{
+            "id": 759,
+            "num": "759",
+            "name": "Stufful",
+            "img": "http://www.serebii.net/pokemongo/pokemon/759.png",
+            "type": [
+              "Normal",
+              "Fighting"
+            ],
+            "height": "0.5 m",
+            "weight": "6.8 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+              "Fighting",
+              "Flying",
+              "Psychic",
+              "Fairy"
+            ],
+            "next_evolution": [{
+              "num": "760",
+              "name": "Bewear"
+            }]
+          },{
+            "id": 760,
+            "num": "760",
+            "name": "Bewear",
+            "img": "http://www.serebii.net/pokemongo/pokemon/760.png",
+            "type": [
+                "Normal",
+                "Fighting"
+            ],
+            "height": "2.1 m",
+            "weight": "135.0 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fighting",
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "prev_evolution":[{
+                "num":"759",
+                "name":"Stufful"
+            }],
+            "next_evolution": [{
+              "num": "0",
+              "name": "This is the final evolution"
+            }]
+          },{
+            "id": 761,
+            "num": "761",
+            "name": "Bounsweet",
+            "img": "http://www.serebii.net/pokemongo/pokemon/761.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "0.3 m",
+            "weight": "3.2 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Poison",
+                "Ice",
+                "Bug"
+            ],
+            "next_evolution": [{
+              "num": "762",
+              "name": "Steenee"
+            },{
+                "num": "763",
+                "name": "Tsareena"
+              }]
+          },{
+            "id": 762,
+            "num": "762",
+            "name": "Steenee",
+            "img": "http://www.serebii.net/pokemongo/pokemon/762.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "0.7 m",
+            "weight": "8.2 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Poison",
+                "Ice",
+                "Bug"
+            ],
+            "prev_evolution":[{
+                "num":"761",
+                "name":"Bounsweet"
+            }],
+            "next_evolution": [{
+                "num": "763",
+                "name": "Tsareena"
+              }]
+          },{
+            "id": 763,
+            "num": "763",
+            "name": "Tsareena",
+            "img": "http://www.serebii.net/pokemongo/pokemon/763.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "1.2 m",
+            "weight": "21.4 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Poison",
+                "Ice",
+                "Bug"
+            ],
+            "prev_evolution":[{
+                "num":"761",
+                "name":"Bounsweet"
+            },{
+                "num":"762",
+                "name":"Steenee"
+            }],
+            "next_evolution": [{
+                "num": "0",
+                "name": "This is the final evolution"
+              }]
+          },{
+            "id": 764,
+            "num": "764",
+            "name": "Comfey",
+            "img": "http://www.serebii.net/pokemongo/pokemon/764.png",
+            "type": [
+              "Fairy"
+            ],
+            "height": "0.1 m",
+            "weight": "0.3 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Poison",
+                "Acero"
+            ],
+            "next_evolution": [{
+                "num": "0",
+                "name": "This is the final evolution"
+              }]
+          },{
+            "id": 765,
+            "num": "765",
+            "name": "Oranguru",
+            "img": "http://www.serebii.net/pokemongo/pokemon/765.png",
+            "type": [
+              "Normal",
+              "Psychic"
+            ],
+            "height": "1.5 m",
+            "weight": "76.0 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Bug",
+                "Dark"
+        
+            ],
+            "next_evolution": [{
+                "num": "0",
+                "name": "This is the final evolution"
+              }]
+          },{
+            "id": 766,
+            "num": "766",
+            "name": "Passimian",
+            "img": "http://www.serebii.net/pokemongo/pokemon/766.png",
+            "type": [ 
+                "Fighting"
+            ],
+            "height": "2.0 m",
+            "weight": "82.8 kg",
+            "candy": "none",
+            "candy_count": 0,
+            "egg": "not in eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "next_evolution": [{
+                "num": "0",
+                "name": "This is the final evolution"
+              }]
+          },
+          {
+            "id": 767,
+            "num": "767",
+            "name": "Wimpod",
+            "img": "http://www.serebii.net/pokemongo/pokemon/767.png",
+            "type": [
+              "Bug","Water"
+            ],
+            "height": "0.5 m",
+            "weight": "12 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Grass",
+                "Flying",
+                "Electric",
+                "Rock",
+                "Fire"
+            ],
+            "next_evolution": [{
+              "num": "768",
+              "name": "Golisopod"
+            }]
+          },{
+            "id": 768,
+            "num": "768",
+            "name": "Golisopod",
+            "img": "http://www.serebii.net/pokemongo/pokemon/768.png",
+            "type": [
+              "Bug","Water"
+            ],
+            "height": "2 m",
+            "weight": "108 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Grass",
+                "Flying",
+                "Electric",
+                "Rock",
+                "Fire"
+            ],
+            "prev_evolution": [{
+              "num": "767",
+              "name": "Wimpod"
+            }],
+            "next_evolution":[{
+              "num":"0",
+              "name":"This is the final Evolution"
+            }]
+          },{
+          "id": 769,
+          "num": "769",
+          "name": "Sandygast",
+          "img": "http://www.serebii.net/pokemongo/pokemon/769.png",
+          "type": [
+            "Ghost","Ground"
+          ],
+          "height": "0.5 m",
+          "weight": "70 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Water",
+              "Ice",
+              "Ghost",
+              "Dark"
+          ],
+          "next_evolution": [{
+            "num": "770",
+            "name": "Palossand"
+          }]
+        },{
+          "id": 770,
+          "num": "770",
+          "name": "Palossand",
+          "img": "http://www.serebii.net/pokemongo/pokemon/770.png",
+          "type": [
+              "Ghost","Ground"
+          ],
+          "height": "1.3 m",
+          "weight": "250 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Water",
+              "Ice",
+              "Ghost",
+              "Dark"
+          ],
+          "prev_evolution": [{
+            "num": "769",
+            "name": "Sandygast"
+          }],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 771,
+          "num": "771",
+          "name": "Pyukumuku",
+          "img": "http://www.serebii.net/pokemongo/pokemon/771.png",
+          "type": [
+              "Water"
+          ],
+          "height": "0.3 m",
+          "weight": "1.2 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Electric"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 772,
+          "num": "772",
+          "name": "Type: Null",
+          "img": "http://www.serebii.net/pokemongo/pokemon/772.png",
+          "type": [
+            "Normal"
+          ],
+          "height": "1.9 m",
+          "weight": "120.5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fighting"
+          ],
+          "next_evolution": [{
+            "num": "773",
+            "name": "Silvally"
+          }]
+        },{
+          "id": 773,
+          "num": "773",
+          "name": "Silvally",
+          "img": "http://www.serebii.net/pokemongo/pokemon/773.png",
+          "type": [
+              "Normal"
+          ],
+          "height": "2.3 m",
+          "weight": "100.5 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fighting"
+          ],
+          "prev_evolution": [{
+            "num": "772",
+            "name": "Type: Null"
+          }],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 774,
+          "num": "774",
+          "name": "Minior",
+          "img": "http://www.serebii.net/pokemongo/pokemon/774.png",
+          "type": [
+              "Flying",
+              "Rock"
+          ],
+          "height": "0.3 m",
+          "weight": "40 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fighting",
+              "Ground",
+              "Steel",
+              "Water",
+              "Grass",
+              "Electric",
+              "Ice"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 775,
+          "num": "775",
+          "name": "Komala",
+          "img": "http://www.serebii.net/pokemongo/pokemon/775.png",
+          "type": [
+              "Normal"
+          ],
+          "height": "0.4 m",
+          "weight": "19.9 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Grass",
+              "Electric"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 776,
+          "num": "776",
+          "name": "Turtonator",
+          "img": "http://www.serebii.net/pokemongo/pokemon/776.png",
+          "type": [
+              "Fire","Dragon"
+          ],
+          "height": "2 m",
+          "weight": "212 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Ice",
+              "Dragon",
+              "Fairy",
+              "Ground",
+              "Rock",
+              "Water"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 777,
+          "num": "777",
+          "name": "Togedemaru",
+          "img": "http://www.serebii.net/pokemongo/pokemon/777.png",
+          "type": [
+              "Steel","Electric"
+          ],
+          "height": "0.3 m",
+          "weight": "3.3 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Ground",
+              "Fighting",
+              "Fire"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 778,
+          "num": "778",
+          "name": "Mimikyu",
+          "img": "http://www.serebii.net/pokemongo/pokemon/778.png",
+          "type": [
+              "Fairy","Ghost"
+          ],
+          "height": "0.2 m",
+          "weight": "0.7 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Ghost",
+              "Dark",
+              "Poison",
+              "Steel"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 779,
+          "num": "779",
+          "name": "Bruxish",
+          "img": "http://www.serebii.net/pokemongo/pokemon/779.png",
+          "type": [
+              "Psychic","Water"
+          ],
+          "height": "0.9 m",
+          "weight": "19 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Ghost",
+              "Dark",
+              "Bug",
+              "Grass",
+              "Electric"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 780,
+          "num": "780",
+          "name": "Drampa",
+          "img": "http://www.serebii.net/pokemongo/pokemon/780.png",
+          "type": [
+              "Normal","Dragon"
+          ],
+          "height": "3 m",
+          "weight": "185 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Fighting",
+              "Dark",
+              "Ice",
+              "Dragon",
+              "Fairy"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{
+          "id": 781,
+          "num": "781",
+          "name": "Dhelmise",
+          "img": "http://www.serebii.net/pokemongo/pokemon/781.png",
+          "type": [
+              "Ghost","Grass"
+          ],
+          "height": "3 m",
+          "weight": "185 kg",
+          "candy": "None",
+          "egg": "Not in Eggs",
+          "spawn_chance": 0,
+          "avg_spawns": 0,
+          "spawn_time": "N/A",
+          "multipliers": null,
+          "weaknesses": [
+              "Flying",
+              "Poison",
+              "Bug",
+              "Fire",
+              "Ice",
+              "Ghost",
+              "Dark"
+          ],
+          "next_evolution":[{
+            "num":"0",
+            "name":"This is the final Evolution"
+          }]
+        },{   
+          "id": 782,
+            "num": "782",
+            "name": "Jangmo-o",
+            "img": "http://www.serebii.net/pokemongo/pokemon/782.png",
+            "type": [
+              "Dragon"
+            ],
+            "height": "0.3 m",
+            "weight": "1.5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Ice",
+                "Dragon",
+                "Fairy"
+            ],
+            "next_evolution": [{
+              "num": "783",
+              "name": "Hakamo-o"
+            },
+            {
+              "num": "784",
+              "name": "Kommo-o"
+            }]
+          },{
+            "id": 783,
+            "num": "783",
+            "name": "Hakamo-o",
+            "img": "http://www.serebii.net/pokemongo/pokemon/783.png",
+            "type": [
+              "Dragon","Fight"
+            ],
+            "height": "1.2 m",
+            "weight": "47 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Flying",
+                "Psychc",
+                "Ice",
+                "Dragon",
+                "Fairy"
+            ],
+            "prev_evolution": [
+              {
+                "num": "782",
+                "name": "Jangmo-o"
+              }
+              ],
+              "next_evolution": [
+              {
+                "num": "784",
+                "name": "Kommo-o"
+              }
+            ]
+          },{
+            "id": 784,
+            "num": "784",
+            "name": "Kommo-o",
+            "img": "http://www.serebii.net/pokemongo/pokemon/784.png",
+            "type": [
+              "Dragon","Fight"
+            ],
+            "height": "1.6 m/3.8 m",
+            "weight": "78.2 kg/460 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Flying",
+                "Psychc",
+                "Ice",
+                "Dragon",
+                "Fairy"
+            ],
+            "prev_evolution": [
+                {
+                  "num": "782",
+                  "name": "Jangmo-o-o"
+                },{
+                  "num": "783",
+                  "name": "Hakamo-o"
+                }
+            ],    
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 785,
+            "num": "785",
+            "name": "Tapu Koko",
+            "img": "http://www.serebii.net/pokemongo/pokemon/785.png",
+            "type": [
+              "Electr","Fairy"
+            ],
+            "height": "1.8 m",
+            "weight": "20.5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Poison",
+                "Land"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 786,
+            "num": "786",
+            "name": "Tapu Lele",
+            "img": "http://www.serebii.net/pokemongo/pokemon/786.png",
+            "type": [
+              "Psychc","Fairy"
+            ],
+            "height": "1.2 m",
+            "weight": "18.6 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Poison",
+                "Ghost",
+                "Steel"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 787,
+            "num": "787",
+            "name": "Tapu Bulu",
+            "img": "http://www.serebii.net/pokemongo/pokemon/787.png",
+            "type": [
+              "Grass", "Fairy"
+            ],
+            "height": "1.9 m",
+            "weight": "45.5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Poison",
+                "Ice",
+                "Steel"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 788,
+            "num": "788",
+            "name": "Tapu Fini",
+            "img": "http://www.serebii.net/pokemongo/pokemon/788.png",
+            "type": [
+              "Water","Fairy"
+            ],
+            "height": "1.3 m",
+            "weight": "21.2 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Grass",
+                "Poison",
+                "Electric"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 789,
+            "num": "789",
+            "name": "Cosmong",
+            "img": "http://www.serebii.net/pokemongo/pokemon/789.png",
+            "type": [
+              "Psychc"
+            ],
+            "height": "0.2 m",
+            "weight": "0.1 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Bug",
+                "Ghost",
+                "Sinister"
+            ],
+            "next_evolution": [
+              {
+                "num": "790",
+                "name": "Cosmoen"
+              },
+              {
+                  "num": "791",
+                  "name": "Solgaleo"
+              },
+              {
+                  "num": "792",
+                  "name": "Lunala"
+              }
+              ]
+          },{
+            "id": 790,
+            "num": "790",
+            "name": "Cosmoen",
+            "img": "http://www.serebii.net/pokemongo/pokemon/790.png",
+            "type": [
+              "Psychc"
+            ],
+            "height": "0.1 m",
+            "weight": "999.9 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Bug",
+                "Ghost",
+                "Sinister"
+              ],
+              "prev_evolution": [
+              {
+                "num": "789",
+                "name": "Cosmong"
+              }
+              ],
+              "next_evolution": [
+                  {
+                      "num": "791",
+                      "name": "Solgaleo"
+                  },
+                  {
+                      "num": "792",
+                      "name": "Lunala"
+                  }
+                  ]
+          },{
+            "id": 791,
+            "num": "791",
+            "name": "Solgaleo",
+            "img": "http://www.serebii.net/pokemongo/pokemon/791.png",
+            "type": [
+              "Psychc","Steel"
+            ],
+            "height": "3.4 m",
+            "weight": "230 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Land",
+                "Ghost",
+                "Sinister"
+            ],
+              "prev_evolution": [
+              {
+                "num": "789",
+                "name": "Cosmong"
+              },
+              {
+                  "num": "790",
+                  "name": "Cosmoen"
+                }
+            ],
+            "next_evolution": [
+              {
+                  "num": "792",
+                  "name": "Lunala"
+              }
+              ]
+          },{
+            "id": 792,
+            "num": "792",
+            "name": "Lunala",
+            "img": "http://www.serebii.net/pokemongo/pokemon/792.png",
+            "type": [
+              "Psychc","Ghost"
+            ],
+            "height": "4 m",
+            "weight": "120 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Ghost",
+                "Sinister"
+            ],
+            "prev0_evolution": [
+              {
+                "num": "789",
+                "name": "Cosmong"
+              },
+              {
+                  "num": "790",
+                  "name": "Cosmoen"
+              },
+              {
+                  "num": "791",
+                  "name": "Solgaleo"
+                }
+              ],
+              "next_evolution":[{
+                  "num":"0",
+                  "name":"This is the final Evolution"
+              }]
+          },{
+            "id": 793,
+            "num": "793",
+            "name": "Nihilego",
+            "img": "http://www.serebii.net/pokemongo/pokemon/793.png",
+            "type": [
+              "Rock","Poison"
+            ],
+            "height": "1.2 m",
+            "weight": "55.5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Water",
+                "Land",
+                "Psychc",
+                "Steel"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 794,
+            "num": "794",
+            "name": "Buzzwole",
+            "img": "http://www.serebii.net/pokemongo/pokemon/794.png",
+            "type": [
+              "Normal"
+            ],
+            "height": "2.4 m",
+            "weight": "333.6 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychc",
+                "Fairy"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final evolution"
+              }
+            ]
+          },{
+            "id": 795,
+            "num": "795",
+            "name": "Pheromosa",
+            "img": "http://www.serebii.net/pokemongo/pokemon/795.png",
+            "type": [
+              "Bug","Fight"
+            ],
+            "height": "1.8 m",
+            "weight": "25 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychc",
+                "Fairy"
+            ],
+              "next_evolution": [
+              {
+                "num": "0",
+                "name": "This is the final Evolution"
+              }
+            ]
+          },{
+            "id": 796,
+            "num": "796",
+            "name": "Xurkitree",
+            "img": "http://www.serebii.net/pokemongo/pokemon/796.png",
+            "type": [
+              "Electric"
+            ],
+            "height": "3.8 m",
+            "weight": "100 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Land"
+            ],
+              "next_evolution":[
+                {
+                  "num": "0",
+                  "name": "This is the final Evolution"
+                }]
+          },
+          {
+            "id": 797,
+            "num": "797",
+            "name": "Celesteela",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/c/c3/Celesteela.png/revision/latest?cb=20161206173816",
+            "type": [
+              "Steel",
+              "Flying"
+            ],
+            "height": "9,2 m",
+            "weight": "999,9 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses":  [
+                "Electric",
+                "Fire"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 798,
+            "num": "798",
+            "name": "Kartana",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a1/Kartana.png/revision/latest?cb=20161206062708",
+            "type": [
+              "Grass",
+              "Steel"
+            ],
+            "height": "0,3 m",
+            "weight": "0,1 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Fighting"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+              }]
+          },{
+            "id": 799,
+            "num": "799",
+            "name": "Guzzlord",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/9/99/Guzzlord.png/revision/latest?cb=20161118170417",
+            "type": [
+              "Sinister",
+              "Dragon"
+            ],
+            "height": "5,5 m",
+            "weight": "888,0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fairy",
+                "Fighting",
+                "Bug",
+                "Ice",
+                "Dragon"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 800,
+            "num": "800",
+            "name": "Necrozma",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/7/77/Necrozma.png/revision/latest?cb=20161114210617",
+            "type": [
+              "Psychic"
+            ],
+            "height": "2,4 m",
+            "weight": "230,0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Bug",
+                "Ghost",
+                "Sinister"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 801,
+            "num": "801",
+            "name": "Magearna",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/a1/Magearna.png/revision/latest?cb=20160614170955",
+            "type": [
+              "Steel",
+              "Fairy"
+            ],
+            "height": "1,0 m",
+            "weight": "80,5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Earth"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 802,
+            "num": "802",
+            "name": "Marshadow",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/d/dd/Marshadow.png/revision/latest?cb=20170615143647",
+            "type": [
+              "Fighting",
+              "Ghost"
+            ],
+            "height": "0,7 m",
+            "weight": "22,2 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Ghost",
+                "Fairy",
+                "Psychic",
+                "Flying"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 803,
+            "num": "803",
+            "name": "Poipole",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/a/af/Poipole.png/revision/latest?cb=20180104174650",
+            "type": [
+              "Poison"
+            ],
+            "height": "0,6 m",
+            "weight": "1,8 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Psychic",
+                "Earth"
+            ],
+            "next_evolution": [{
+              "num":"804",
+              "name": "Naganadel"
+            }]
+          },{
+            "id": 804,
+            "num": "804",
+            "name": "Naganadel",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/8/86/Naganadel.png/revision/latest?cb=20171228210954",
+            "type": [
+              "Poison",
+              "Dragon"
+            ],
+            "height": "3,6 m",
+            "weight": "150,0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Dragon",
+                "Ice",
+                "Psychic",
+                "Earth"
+            ],
+              "prev_evolution": [{
+                "num": "803",
+                "name": "Poipole"
+              }
+            ],
+              "next_evolution": [
+            {
+              "num": "0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 805,
+            "num": "805",
+            "name": "Stakataka",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/b/b0/Stakataka.png/revision/latest?cb=20180728230153",
+            "type": [
+              "Rock",
+              "Steel"
+            ],
+            "height": "5,5 m",
+            "weight": "820,0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Water",
+                "Fighting",
+                "Iron"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 806,
+            "num": "806",
+            "name": "Blacephalon",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/d/d2/Blacephalon.png/revision/latest?cb=20180728230402",
+            "type": [
+              "Fire",
+              "Ghost"
+            ],
+            "height": "1,8 m",
+            "weight": "13,0 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Water",
+                "Ghost",
+                "Rock",
+                "Sinister",
+                "Earth"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 807,
+            "num": "807",
+            "name": "Zeraora",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/e/ef/Zeraora.png/revision/latest?cb=20180423021436",
+            "type": [
+              "Electric"
+            ],
+            "height": "1,5 m",
+            "weight": "44,5 kg",
+            "candy": "None",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Earth"
+            ],
+            "next_evolution": [{
+              "num":"0",
+              "name": "This is the final Evolution"
+            }]
+          },{
+            "id": 808,
+            "num": "808",
+            "name": "Meltan",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/3/30/Meltan.png/revision/latest?cb=20180925141230",
+            "type": [
+              "Steel"
+            ],
+            "height": "0,2 m",
+            "weight": "8 kg",
+            "candy": "400",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Fighting",
+                "Earth"
+            ],
+            "next_evolution": [{
+              "num":"809",
+              "name": "Melmetal"
+            }]
+          },{
+            "id": 809,
+            "num": "809",
+            "name": "Melmetal",
+            "img": "https://vignette.wikia.nocookie.net/es.pokemon/images/4/4b/Melmetal.png/revision/latest?cb=20181025094423",
+            "type": [
+              "Steel"
+            ],
+            "height": "2,5 m",
+            "weight": "800,0 kg",
+            "candy": "400",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0,
+            "avg_spawns": 0,
+            "spawn_time": "N/A",
+            "multipliers": null,
+            "weaknesses": [
+                "Fire",
+                "Fighting",
+                "Earth"
+              ],
+              "prev_evolution": [{
+                "num": "808",
+                "name": "Meltan"
+              }
+            ],
+              "next_evolution": [
+            {
+              "num": "0",
+              "name": "This is the final Evolution"
+              }
+              ]
+          }
+        ]
+       }
