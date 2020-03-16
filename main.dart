@@ -33,7 +33,6 @@ class _MyAppState extends State<MyApp> {
         'Welcom',
         style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 20.0, color: Colors.white),
       ),
-
       photoSize: 200.0,
       seconds: 10,
       backgroundColor: Colors.black,
@@ -128,8 +127,10 @@ class _myHomePageState extends State<homePage> {
             ? Center(
                 child: CircularProgressIndicator(),
               )
-            : GridView.count(
-                crossAxisCount: 2,
+        : OrientationBuilder(
+          builder: (context, orientation) {
+            return GridView.count(
+                crossAxisCount:  orientation == Orientation.portrait ? 2 : 3,
                 children: pokeHub.pokemon
                     .where((poke) => poke.name
                         .toLowerCase()
@@ -183,6 +184,6 @@ class _myHomePageState extends State<homePage> {
                             ),
                           ),
                         ))
-                    .toList()));
+                    .toList());},),);
   }
 }
